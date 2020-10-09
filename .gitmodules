@@ -1,0 +1,12 @@
+[submodule "related-items"]
+	path = related-items
+	url = https://github.com/callback-kids/related-items
+[submodule "questions-answers"]
+	path = questions-answers
+	url = https://github.com/callback-kids/questions-answers.git
+[submodule "ratings-and-reviews"]
+	path = ratings-and-reviews
+	url = https://github.com/callback-kids/ratings-and-reviews.git
+[submodule "product-detail"]
+	path = product-detail
+	url = https://github.com/callback-kids/product-detail.git
