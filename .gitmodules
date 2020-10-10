@@ -10,3 +10,6 @@
 [submodule "product-detail"]
 	path = product-detail
 	url = https://github.com/callback-kids/product-detail.git
+[submodule "FEC-proxy-server"]
+	path = FEC-proxy-server
+	url = https://github.com/OhHeyDeer/FEC-proxy-server.git
